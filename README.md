@@ -1,2 +1,2 @@
-# lt-proxy-manager
-This extension let's you esay way use proxy in chrome browser
+# LT Proxy Manager
+This chrome extension lets you in easy way use proxy. 
